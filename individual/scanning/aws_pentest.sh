@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+export AWS_ACCESS_KEY_ID="12345678901"
+export AWS_SECRET_ACCESS_KEY="v/12345678901"
+export AWS_DEFAULT_REGION=us-west-2
